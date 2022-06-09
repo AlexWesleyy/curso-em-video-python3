@@ -1,11 +1,9 @@
 <h1 align="center">
-  <a href="https://www.youtube.com/user/cursosemvideo" target="_blank">
     <img src="./imagens/logo_curso_em_video.jpg" width="250px" />
     <img src="./imagens/logo_python.png" width="80px" />
-  </a>
 </h1>
   
-Repositório dedicado a soluções de todos os desafios propostos no curso de Python 3 no canal **Curso Em Vídeo**.
+Repositório dedicado a soluções de todos os desafios propostos no curso de Python 3 no canal  <a href="https://www.youtube.com/user/cursosemvideo" target="_blank">**Curso Em Vídeo**.</a>
 
 ## Mundos
 - [*Mundo 1*](https://github.com/AlexWesleyy/curso-em-video-python3/tree/main/Mundo_1_Fundamentos) - *Fundamentos - ( 35 Desafios )*
