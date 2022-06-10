@@ -7,6 +7,7 @@ Repositório dedicado a soluções de todos os desafios propostos no curso de Py
 
 ## Mundos
 - [*Mundo 1*](https://github.com/AlexWesleyy/curso-em-video-python3/tree/main/Mundo_1_Fundamentos) - *Fundamentos - ( 35 Desafios )*
+- [*Mundo 2*](https://github.com/AlexWesleyy/curso-em-video-python3/tree/main/Mundo_2_EstruturasDeControle) - *Estrutura de Controle - ( 36 Desafios )*
 
 <h2 align="center">Encontre Curso em Vídeo em:</h2>
 <p align="center">
